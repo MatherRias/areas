@@ -1,4 +1,4 @@
-function calculate(width) {
-    let result = width*width;
+function calculate(length) {
+    let result = length*length;
     return result;
 }
